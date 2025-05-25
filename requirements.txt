@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 absl-py==2.2.2
 
 aioitertools @ file:///tmp/build/80754af9/aioitertools_1607109665762/work
@@ -280,3 +281,13 @@ zict @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/zict_1699
 zipp @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/zipp_1707348942775/work
 zope.interface @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/zope.interface_1699243689919/work
 zstandard @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_cairdg5u3o/croot/zstandard_1728569200438/work
+=======
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+keras
+tensorflow
+>>>>>>> 4a3b3eb (Cleaned requirements.txt for Streamlit app)
