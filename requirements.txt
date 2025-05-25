@@ -1,5 +1,4 @@
 absl-py==2.2.2
-aext-assistant-server @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_163phnmju4/croot/aext-assistant-server_1734640071251/work
 aext-core @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_aabfvxuq33/croot/aext-core_1734637785459/work
 aext-core-server @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_c317foj9pq/croot/aext-core-server_1734635080634/work
 aext-panels @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_59_qqis9gs/croot/aext-panels_1734643297892/work
